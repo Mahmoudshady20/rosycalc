@@ -11,7 +11,7 @@
 [![Flutter](https://img.shields.io/badge/Flutter-3.8.1-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-3.8.1-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
-[![Version](https://img.shields.io/badge/Version-1.1.6-FF69B4?style=for-the-badge)](https://github.com/Mahmoudshady20/rosycalc2)
+[![Version](https://img.shields.io/badge/Version-1.1.6-FF69B4?style=for-the-badge)](https://github.com/Mahmoudshady20/rosycalc)
 [![License: MIT](https://img.shields.io/badge/License-MIT-pink.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 <a href="https://play.google.com/store/apps/details?id=com.rosycalc.app">
@@ -27,7 +27,7 @@
 
 ## 📖 About
 
-**RosyCalc** is a next-generation women's health companion that seamlessly blends medical precision with elegant design. Built for cross-platform excellence—Android, iOS, and desktop-first web—this Flutter-powered application empowers women to track their cycles, understand their bodies, and connect with a supportive community. RosyCalc combines intelligent predictions, comprehensive symptom tracking, and social features into one polished experience designed for modern women who value both privacy and connectivity.
+**RosyCalc** is a next-generation women's health companion that seamlessly blends medical precision with elegant design. Built for cross-platform excellence—Android, and iOS Flutter-powered application empowers women to track their cycles, understand their bodies, and connect with a supportive community. RosyCalc combines intelligent predictions, comprehensive symptom tracking, and social features into one polished experience designed for modern women who value both privacy and connectivity.
 
 ---
 
